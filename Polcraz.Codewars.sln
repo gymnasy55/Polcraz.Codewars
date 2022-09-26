@@ -66,6 +66,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars.Multiply", "Codewa
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.HighestRankNumberInAnArray", "Codewars.HighestRankNumberInAnArray\Codewars.HighestRankNumberInAnArray.fsproj", "{640FC3B5-235C-43C6-AE6D-4C268043A7A1}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes", "Codewars.DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes\Codewars.DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes.fsproj", "{F9801D7D-6522-4CAE-B7E0-82684B851615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -208,5 +210,9 @@ Global
 		{640FC3B5-235C-43C6-AE6D-4C268043A7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{640FC3B5-235C-43C6-AE6D-4C268043A7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{640FC3B5-235C-43C6-AE6D-4C268043A7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9801D7D-6522-4CAE-B7E0-82684B851615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9801D7D-6522-4CAE-B7E0-82684B851615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9801D7D-6522-4CAE-B7E0-82684B851615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9801D7D-6522-4CAE-B7E0-82684B851615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
