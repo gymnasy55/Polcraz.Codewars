@@ -72,6 +72,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.TortoiseRacing", "
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.Rainfall", "Codewars.Rainfall\Codewars.Rainfall.fsproj", "{F73F716A-5687-416F-A070-45BF9C0179E7}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.MostFrequentWeekdays", "Codewars.MostFrequentWeekdays\Codewars.MostFrequentWeekdays.fsproj", "{6EA565D1-3604-4D72-9F77-3CA664AFEAFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -226,5 +228,9 @@ Global
 		{F73F716A-5687-416F-A070-45BF9C0179E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F73F716A-5687-416F-A070-45BF9C0179E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F73F716A-5687-416F-A070-45BF9C0179E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA565D1-3604-4D72-9F77-3CA664AFEAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA565D1-3604-4D72-9F77-3CA664AFEAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA565D1-3604-4D72-9F77-3CA664AFEAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA565D1-3604-4D72-9F77-3CA664AFEAFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
