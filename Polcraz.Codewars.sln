@@ -74,6 +74,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.Rainfall", "Codewa
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.MostFrequentWeekdays", "Codewars.MostFrequentWeekdays\Codewars.MostFrequentWeekdays.fsproj", "{6EA565D1-3604-4D72-9F77-3CA664AFEAFC}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.PairsOfBears", "Codewars.PairsOfBears\Codewars.PairsOfBears.fsproj", "{B9E2244E-B8F2-4697-AACC-6624D1F81763}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -232,5 +234,9 @@ Global
 		{6EA565D1-3604-4D72-9F77-3CA664AFEAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EA565D1-3604-4D72-9F77-3CA664AFEAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EA565D1-3604-4D72-9F77-3CA664AFEAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E2244E-B8F2-4697-AACC-6624D1F81763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E2244E-B8F2-4697-AACC-6624D1F81763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E2244E-B8F2-4697-AACC-6624D1F81763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E2244E-B8F2-4697-AACC-6624D1F81763}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
