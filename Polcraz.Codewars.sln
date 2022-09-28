@@ -76,6 +76,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.MostFrequentWeekda
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.PairsOfBears", "Codewars.PairsOfBears\Codewars.PairsOfBears.fsproj", "{B9E2244E-B8F2-4697-AACC-6624D1F81763}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.BasicEncryption", "Codewars.BasicEncryption\Codewars.BasicEncryption.fsproj", "{083B498C-F48C-4AC5-BFF6-82FC9B9C85B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -238,5 +240,9 @@ Global
 		{B9E2244E-B8F2-4697-AACC-6624D1F81763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9E2244E-B8F2-4697-AACC-6624D1F81763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9E2244E-B8F2-4697-AACC-6624D1F81763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083B498C-F48C-4AC5-BFF6-82FC9B9C85B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083B498C-F48C-4AC5-BFF6-82FC9B9C85B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083B498C-F48C-4AC5-BFF6-82FC9B9C85B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083B498C-F48C-4AC5-BFF6-82FC9B9C85B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
