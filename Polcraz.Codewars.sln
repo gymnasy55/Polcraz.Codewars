@@ -80,6 +80,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.BasicEncryption", 
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.Catalog", "Codewars.Catalog\Codewars.Catalog.fsproj", "{C1F80219-FB07-47DA-BBEA-1CCA71FFB1C9}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Codewars.SimpsonsRuleApproximateIntegration", "Codewars.SimpsonsRuleApproximateIntegration\Codewars.SimpsonsRuleApproximateIntegration.fsproj", "{97DBEAE8-4212-4410-B299-4F56E569C332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -250,5 +252,9 @@ Global
 		{C1F80219-FB07-47DA-BBEA-1CCA71FFB1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F80219-FB07-47DA-BBEA-1CCA71FFB1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F80219-FB07-47DA-BBEA-1CCA71FFB1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DBEAE8-4212-4410-B299-4F56E569C332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DBEAE8-4212-4410-B299-4F56E569C332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DBEAE8-4212-4410-B299-4F56E569C332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DBEAE8-4212-4410-B299-4F56E569C332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
